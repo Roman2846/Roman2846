@@ -126,6 +126,8 @@ I contributed to frontend development and backend API functionality.
 
 **GoIT — Full Stack Developer Program**
 
+2025 -- 2027
+
 Studying frontend and backend development using JavaScript, TypeScript, React, Next.js and Node.js.
 
 ---

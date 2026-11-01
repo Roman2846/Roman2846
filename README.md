@@ -124,7 +124,7 @@ I contributed to frontend development and backend API functionality.
 
 ## 🎓 Education
 
-**GoIT — Full Stack Developer Program**
+**IT School GoIT — Full Stack Developer Program**
 
 2025 - 2027
 
@@ -132,7 +132,14 @@ Studying frontend and backend development using JavaScript, TypeScript, React, N
 
 ---
 
-## 📫 Contact
+## 🌍 Languages
+
+- **English** — Elementary (A1)
+- **Ukrainian** — Native
+
+---
+
+## 📫 Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-krasivskyi/)
 
